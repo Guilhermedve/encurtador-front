@@ -22,6 +22,4 @@ form.addEventListener("submit", async (event) => {
     });
 });
 
-butao.addEventListener("click", () => {
-    console.log("cu")
-})
+)
